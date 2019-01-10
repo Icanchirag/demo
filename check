@@ -5,7 +5,7 @@
       "identifier": "1",
       "name": "emoji",
       "publisher": "christmastree",
-      "tray_image_file": "public/images/uploads/13.webp",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
       "publisher_email": "viztushar@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
