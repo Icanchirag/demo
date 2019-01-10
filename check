@@ -2,9 +2,9 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.viztushar.stickerpack",
   "sticker_packs": [
     {
-      "identifier": "emoji",
+      "identifier": "1",
       "name": "emoji",
-      "publisher": "emoji",
+      "publisher": "christmastree",
       "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
       "publisher_email": "viztushar@gmail.com",
       "publisher_website": "",
@@ -17,12 +17,12 @@
           ]
             },
             {
-                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/thanksgiving/zlR58p4IjK0gWkeATxGVwu6iqcZbro.webp","emojis": [
+                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmastree/hkaGe0PLw_CpmDUnlBIyZMbRjr74sv.webp","emojis": [
             "ðŸ™‚"
           ]
             },
             {
-                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmasspecial/OwMhc8eRWda2mPVp9BAXzsQbjDioZ3.webp","emojis": [
+                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmastree/hkaGe0PLw_CpmDUnlBIyZMbRjr74sv.webp","emojis": [
             "ðŸ™‚"
           ]
             }
