@@ -5,24 +5,24 @@
       "identifier": "1",
       "name": "emoji",
       "publisher": "christmastree",
-      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "tray_image_file": "public/images/uploads/13.webp",
       "publisher_email": "viztushar@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmastree/hkaGe0PLw_CpmDUnlBIyZMbRjr74sv.webp","emojis": [
+                "image_file": "public/images/uploads/17.webp","emojis": [
             "ðŸ™‚"
           ]
             },
             {
-                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmastree/hkaGe0PLw_CpmDUnlBIyZMbRjr74sv.webp","emojis": [
+                "image_file": "public/images/uploads/16.webp","emojis": [
             "ðŸ™‚"
           ]
             },
             {
-                "image_file": "http://icanstudioz.com/playstore/wasticker/package/assets/christmastree/hkaGe0PLw_CpmDUnlBIyZMbRjr74sv.webp","emojis": [
+                "image_file": "public/images/uploads/15.webp","emojis": [
             "ðŸ™‚"
           ]
             }
